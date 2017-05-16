@@ -2168,7 +2168,7 @@ r874	network properties(relatedTo)
 r1774	to play
 r1664	is a dutch virtual community for
 r2529	is a finite representation of
-r2	sameAs
+r2	owl:sameAs
 r524	is a portion of
 r1675	classification of critical points and extrema(relatedTo)
 r1211	is the observed process of
