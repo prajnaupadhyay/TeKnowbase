@@ -8,5 +8,5 @@ There are 3 files here:
 
 Contact:
 
-prajna.upadhyay@cse.iitd.ac.in
-ramanath@cse.iitd.ac.in
+1) prajna.upadhyay@cse.iitd.ac.in,
+2) ramanath@cse.iitd.ac.in
