@@ -1,8 +1,8 @@
-This repository constains datasets related to TeKnowbase, a knowledge base of computer science concepts. 
+TeKnowbase is a knowledge base of computer science concepts. It is organised in the form of triples -- (entity1, rel, entity2) tuple, stating the fact that "entity1" participates in a relation with "entity2" via the relationship "rel". Each entity in TeKnowbase has a unique id and a URI associated with it. The URI is a web-page dedicated to the entity's description. Each relation is also mapped to a unique id. The owl:sameAs relation is used to link entities from TeKnowbase to DBpedia and Freebase entities. The triples are listed using their entity and relation ids.
 
 There are 3 files here:
 
-1) TeKnowbaseEntities.tsv: This tab-separated file lists a unique id for every entity in TeKnowbase and its name.
+1) TeKnowbaseEntities.tsv: This tab-separated file consists of the unique id for every entity, its name and its URI.
 2) TeKnowbaseRelations.tsv: Every relation is mapped to a unique identifier, separated by tabs.
 3) TeKnowbase.tsv: Each line in this file consists of an entity id, relation id and entity id, separated by tabs. 
 
