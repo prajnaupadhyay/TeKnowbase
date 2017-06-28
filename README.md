@@ -5,7 +5,7 @@ There are 3 files here:
 1) TeKnowbaseEntities.tsv: This tab-separated file consists of the unique id for every entity, its name and its URI.
 2) TeKnowbaseRelations.tsv: Every relation is mapped to a unique identifier, separated by tabs.
 3) TeKnowbase.tsv: Each line in this file consists of an entity id, relation id and entity id, separated by tabs. 
-
+4) TeKnowbaseRDF.tsv: This file lists the actual entities and relations in TeKnowbase.
 Contact:
 
 1) prajna.upadhyay@cse.iitd.ac.in,
