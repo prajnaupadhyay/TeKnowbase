@@ -24,27 +24,39 @@ There are 3 files here:
 TeKnowbase Statistics
 
 Number of entities: 53,379 with 85,838 variations
+
 Number of relations: 2574
+
 Number of triples: 146,658
 
 Top 5 relations in decreasing order of frequencies
 
 Relation name	Frequency
 synonymOf	35779
+
 typeOf	27078
+
 isTerminology(relatedTo)	26967
+
 subTopicOf	2025
+
 conceptIn	595
+
 
 Evaluation
 
 Stratified sampling was used to sample 2% of triples participating in each of the 5-most frequest relations. These samples were evaluated by 2 experts. Triples extracted from unstructured sources were evaluated in a similiar fashion. Since the relationips were not canonicalised, we sampled 2% from this set and asked experts to evaluate them. The accuracies obtained were:
 
 typeOf	99.03%
+
 terminologyOf	98.9%
+
 synonymOf	100%
+
 subTopicOf	91.3%
+
 conceptIn	95.4%
+
 Unstructured sources	63.2%
 
 
