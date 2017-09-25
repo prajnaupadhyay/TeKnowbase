@@ -1,8 +1,8 @@
-Overview
+# Overview
 
 TeKnowbase is a knowledge base of computer science concepts. It is organised in the form of triples in RDF form. TeKnowbase is constructed from technical websites such as Webopedia and Techtarget as well as online textbooks and Wikipedia. We first acquire entities from technical sources sources and then identify relationships between them using domain-specific heuristics. The owl:sameAs relation is used to link entities from TeKnowbase to DBpedia and Freebase entities. 
 
-There are 3 files here:
+## There are 3 files here:
 
 1) TeKnowbaseEntities.tsv: This file describes the entities in TeKnowbase. It consists of 3 columns:
 	a) entity_id: This is a unique identifier assigned to each entity in TeKnowbase
@@ -22,22 +22,16 @@ There are 3 files here:
 	e) technique: The technique used to extract the triple
 
 
-TeKnowbase Statistics
+# TeKnowbase Statistics
 
 
 Number of entities: 53,379 with 85,838 variations
-
 Number of relations: 2574
-
 Number of triples: 146,658
 
+## Top 5 relations in decreasing order of frequencies
 
-
-Top 5 relations in decreasing order of frequencies
-
-
-
-Relation name	Frequency
+### Relation name	Frequency
 
 synonymOf	35779
 
@@ -50,10 +44,7 @@ subTopicOf	2025
 conceptIn	595
 
 
-
-Evaluation
-
-
+# Evaluation
 
 Stratified sampling was used to sample 2% of triples participating in each of the 5-most frequest relations. These samples were evaluated by 2 experts. Triples extracted from unstructured sources were evaluated in a similiar fashion. Since the relationips were not canonicalised, we sampled 2% from this set and asked experts to evaluate them. The accuracies obtained were:
 
