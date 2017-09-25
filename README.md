@@ -34,11 +34,11 @@ https://arxiv.org/pdf/1612.04988.pdf
 # TeKnowbase Statistics
 
 
-Number of entities: 53,379 with 85,838 variations
+Number of entities: 53,379 with 85,837 variations
 
 Number of relations: 2574
 
-Number of triples: 146,658
+Number of triples: 146,657
 
 ## Top 5 relations in decreasing order of frequencies
 
@@ -57,7 +57,7 @@ conceptIn	595
 
 # Evaluation
 
-Stratified sampling was used to sample 2% of triples participating in each of the 5-most frequest relations. These samples were evaluated by 2 experts. Triples extracted from unstructured sources were evaluated in a similiar fashion. The accuracies obtained were:
+Stratified sampling was used to sample 2% of triples participating in each of the 5-most frequent relations. These samples were evaluated by 2 experts. Triples extracted from unstructured sources were evaluated in a similiar fashion. The accuracies obtained were:
 
 typeOf	99.03%
 
