@@ -26,7 +26,7 @@ TeKnowbase is a knowledge base of computer science concepts. It is organised in 
 	
 	c) entity2: The tail entity of the triple
 	
-	The last 2 columns describe the following:
+### The last 2 columns describe the following:
 	
 	d) source: The web-page from which the triple was extracted
 	
