@@ -8,16 +8,12 @@ https://arxiv.org/pdf/1612.04988.pdf
 
 ### 1) TeKnowbaseEntities.tsv: This file describes the entities in TeKnowbase. It consists of 3 columns:
 	
-	a) entity_id: This is a unique identifier assigned to each entity in TeKnowbase
+	a) entity_name: Name of the entity
 	
-	b) entity_name: Name of the entity
+	b) entity_URI: A web-page dedicated to the description of this entity
 	
-	c) entity_URI: A web-page dedicated to the description of this entity
-	
-### 2) TeKnowbaseRelations.tsv: This file describes the relations in TeKnowbase. It consists of 2 columns:
-	
-	a) relation_id: This is a unique identifier assigned to each relation in TeKnowbase
-	
+### 2) TeKnowbaseRelations.tsv: This file describes the relations in TeKnowbase. It consists of 1 column:
+		
 	b) relation_name: Name of the relation
 	
 ### 3) TeKnowbase.tsv: Each line in this file states a technical fact. The first 3 columns of this file describe a triple of the following form:
