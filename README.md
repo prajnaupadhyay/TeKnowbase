@@ -20,8 +20,10 @@ There are 3 files here:
 	
 	d) source: The web-page from which the triple was extracted
 	e) technique: The technique used to extract the triple
-	
+
+
 TeKnowbase Statistics
+
 
 Number of entities: 53,379 with 85,838 variations
 
@@ -29,9 +31,14 @@ Number of relations: 2574
 
 Number of triples: 146,658
 
+
+
 Top 5 relations in decreasing order of frequencies
 
+
+
 Relation name	Frequency
+
 synonymOf	35779
 
 typeOf	27078
@@ -43,7 +50,10 @@ subTopicOf	2025
 conceptIn	595
 
 
+
 Evaluation
+
+
 
 Stratified sampling was used to sample 2% of triples participating in each of the 5-most frequest relations. These samples were evaluated by 2 experts. Triples extracted from unstructured sources were evaluated in a similiar fashion. Since the relationips were not canonicalised, we sampled 2% from this set and asked experts to evaluate them. The accuracies obtained were:
 
@@ -62,6 +72,7 @@ Unstructured sources	63.2%
 
 
 Contact:
+
 
 1) prajna.upadhyay@cse.iitd.ac.in,
 2) ramanath@cse.iitd.ac.in
