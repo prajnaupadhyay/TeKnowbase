@@ -4,7 +4,7 @@ TeKnowbase is a knowledge base of computer science concepts. It is organised in 
 
 https://arxiv.org/pdf/1612.04988.pdf
 
-## There are 3 files under the datasets folder here:
+## There are 3 files under the datasets folder:
 
 ### 1) TeKnowbaseEntities.tsv: This file describes the entities in TeKnowbase. It consists of 3 columns:
 	
