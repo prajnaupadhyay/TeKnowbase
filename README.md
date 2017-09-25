@@ -59,7 +59,7 @@ conceptIn	595
 
 # Evaluation
 
-Stratified sampling was used to sample 2% of triples participating in each of the 5-most frequest relations. These samples were evaluated by 2 experts. Triples extracted from unstructured sources were evaluated in a similiar fashion. Since the relationips were not canonicalised, we sampled 2% from this set and asked experts to evaluate them. The accuracies obtained were:
+Stratified sampling was used to sample 2% of triples participating in each of the 5-most frequest relations. These samples were evaluated by 2 experts. Triples extracted from unstructured sources were evaluated in a similiar fashion. The accuracies obtained were:
 
 typeOf	99.03%
 
