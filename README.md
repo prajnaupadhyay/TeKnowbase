@@ -26,7 +26,9 @@ TeKnowbase is a knowledge base of computer science concepts. It is organised in 
 
 
 Number of entities: 53,379 with 85,838 variations
+
 Number of relations: 2574
+
 Number of triples: 146,658
 
 ## Top 5 relations in decreasing order of frequencies
