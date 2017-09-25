@@ -4,19 +4,22 @@ TeKnowbase is a knowledge base of computer science concepts. It is organised in 
 
 ## There are 3 files here:
 
-1) TeKnowbaseEntities.tsv: This file describes the entities in TeKnowbase. It consists of 3 columns:
+### 1) TeKnowbaseEntities.tsv: This file describes the entities in TeKnowbase. It consists of 3 columns:
+	
 	a) entity_id: This is a unique identifier assigned to each entity in TeKnowbase
 	
 	b) entity_name: Name of the entity
 	
 	c) entity_URI: A web-page dedicated to the description of this entity
 	
-2) TeKnowbaseRelations.tsv: This file describes the relations in TeKnowbase. It consists of 2 columns:
+### 2) TeKnowbaseRelations.tsv: This file describes the relations in TeKnowbase. It consists of 2 columns:
+	
 	a) relation_id: This is a unique identifier assigned to each relation in TeKnowbase
 	
 	b) relation_name: Name of the relation
 	
-3) TeKnowbase.tsv: Each line in this file states a technical fact. The first 3 columns of this file describe a triple of the following form:
+### 3) TeKnowbase.tsv: Each line in this file states a technical fact. The first 3 columns of this file describe a triple of the following form:
+	
 	a) entity1: The head entity of the triple
 	
 	b) relation: The relation participating in the triple
