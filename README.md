@@ -34,7 +34,7 @@ https://arxiv.org/pdf/1612.04988.pdf
 # TeKnowbase Statistics
 
 
-Number of entities: 70,331 with 32,458 variations
+Number of entities: 70,285 with 32,458 variations
 
 Number of relations: 2,574
 
