@@ -34,9 +34,9 @@ https://arxiv.org/pdf/1612.04988.pdf
 # TeKnowbase Statistics
 
 
-Number of entities: 53,379 with 85,837 variations
+Number of entities: 70,331 with 32,458 variations
 
-Number of relations: 2574
+Number of relations: 2,574
 
 Number of triples: 146,657
 
@@ -44,13 +44,13 @@ Number of triples: 146,657
 
 ### Relation name	Frequency
 
-synonymOf	35779
+synonymOf	35,779
 
-typeOf	27078
+typeOf	27,078
 
-isTerminology(relatedTo)	26967
+isTerminology(relatedTo)	26,967
 
-subTopicOf	2025
+subTopicOf	2,025
 
 conceptIn	595
 
