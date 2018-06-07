@@ -4,7 +4,7 @@ TeKnowbase is a knowledge base of computer science concepts. It is organised in 
 
 If you find TeKnowbase useful for your research, please cite the following paper:
 
-Prajna Upadhyay, Ashutosh Bindal, Manjeet Kumar, and Maya Ramanath. 2018. Construction and Applications of TeKnowbase: A Knowledge Base of Computer Science Concepts.  In <em>Companion Proceedings of the The Web Conference 2018</em> (WWW '18). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland,  1023-1030. DOI: https://doi.org/10.1145/3184558.3191532
+Prajna Upadhyay, Ashutosh Bindal, Manjeet Kumar, and Maya Ramanath. 2018. Construction and Applications of TeKnowbase: A Knowledge Base of Computer Science Concepts.  In <em>Companion Proceedings of the The Web Conference 2018</em> (WWW '18). Technical report available from http://arxiv.org/abs/1612.04988, 2016. International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland,  1023-1030. DOI: https://doi.org/10.1145/3184558.3191532
 
 
 ## There are 3 files under the datasets folder:
