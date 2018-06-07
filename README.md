@@ -2,7 +2,10 @@
 
 TeKnowbase is a knowledge base of computer science concepts. It is organised in the form of triples in RDF form. TeKnowbase is constructed from technical websites such as Webopedia and Techtarget as well as online textbooks and Wikipedia. We first acquire entities from technical sources and then identify relationships between them using domain and source-specific heuristics. The owl:sameAs relation is used to link entities from TeKnowbase to DBpedia and Freebase entities. Please refer to the following report for details:
 
-https://arxiv.org/pdf/1612.04988.pdf
+If you find TeKnowbase useful for your research, please cite the following paper:
+
+Prajna Upadhyay, Ashutosh Bindal, Manjeet Kumar, and Maya Ramanath. 2018. Construction and Applications of TeKnowbase: A Knowledge Base of Computer Science Concepts.  In <em>Companion Proceedings of the The Web Conference 2018</em> (WWW '18). International World Wide Web Conferences Steering Committee, Republic and Canton of Geneva, Switzerland,  1023-1030. DOI: https://doi.org/10.1145/3184558.3191532
+
 
 ## There are 3 files under the datasets folder:
 
