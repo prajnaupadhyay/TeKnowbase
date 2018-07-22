@@ -8,7 +8,7 @@ Prajna Upadhyay, Ashutosh Bindal, Manjeet Kumar, and Maya Ramanath. 2018. Constr
 
 A pre-print version of the paper is also available:
 
-Prajna Upadhyay, Ashutosh Bindal, Manjeet Kumar, and Maya Ramanath. 2018. TeKnowbase: Towards Construction of a Knowledge-base of Technical Concepts. Technical report available from http://arxiv.org/abs/1612.04988, 2016.
+Prajna Upadhyay, Tanuma Patra, Ashwini Purkar, and Maya Ramanath. 2016. TeKnowbase: Towards Construction of a Knowledge-base of Technical Concepts. Technical report available from http://arxiv.org/abs/1612.04988, 2016.
 
 
 ## There are 3 files under the datasets folder:
