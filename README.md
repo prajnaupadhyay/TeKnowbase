@@ -13,7 +13,7 @@ Prajna Upadhyay, Tanuma Patra, Ashwini Purkar, and Maya Ramanath. 2016. TeKnowba
 
 ## There are 3 files under the datasets folder:
 
-### 1) TeKnowbaseEntities.tsv: This file describes the entities in TeKnowbase. It consists of 3 columns:
+### 1) TeKnowbaseEntities.tsv: This file describes the entities in TeKnowbase. It consists of 2 columns:
 	
 	a) entity_name: Name of the entity
 	
