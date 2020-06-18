@@ -21,7 +21,7 @@ Prajna Upadhyay, Tanuma Patra, Ashwini Purkar, and Maya Ramanath. 2016. TeKnowba
 	
 ### 2) TeKnowbaseRelations.tsv: This file describes the relations in TeKnowbase. It consists of 1 column:
 		
-	b) relation_name: Name of the relation
+	a) relation_name: Name of the relation
 	
 ### 3) TeKnowbase.tsv: Each line in this file states a technical fact. The first 3 columns of this file describe a triple of the following form:
 	
